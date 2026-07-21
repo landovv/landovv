@@ -16,6 +16,16 @@
 🛠 Reverse Engineering Enthusiast
 ```
 
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="28"> Contribution Graph
+
+<p align="center">
+    <img width="100%" src="https://raw.githubusercontent.com/landovv/landovv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+<i>🐍 Eating my contributions...</i>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
