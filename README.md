@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="landovh_git.svg" alt="Landovv / Landovh" width="500" />
+  <img src="logo.svg" alt="Landovv / Landovh" width="500" />
 </div>
 
 <div align="center">
