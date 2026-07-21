@@ -30,10 +30,9 @@
 
 ## <img src="https://api.iconify.design/mdi/brain.svg?color=%238b949e" width="24" style="vertical-align: middle;" /> About Me
 
-- <img src="https://cdn.simpleicons.org/rocket" width="18" style="vertical-align: middle;" /> Currently working on **desktop tools and Telegram integrations**  
-- <img src="https://cdn.simpleicons.org/readthedocs" width="18" style="vertical-align: middle;" /> Learning **modern UI/UX and application architecture**  
-- <img src="https://cdn.simpleicons.org/heart" width="18" style="vertical-align: middle;" /> I believe that code should be **simple, fast and beautiful**  
-- <img src="https://cdn.simpleicons.org/telegram" width="18" style="vertical-align: middle;" /> Reach me on [Telegram](https://t.me/landovv) *(replace with your actual username)*
+-  Currently working on **desktop tools and Telegram integrations**  
+-  Learning **modern UI/UX and application architecture**  
+-  I believe that code should be **simple, fast and beautiful**  
 
 ---
 
@@ -85,11 +84,11 @@
 
 ## <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%238b949e" width="24" style="vertical-align: middle;" /> Interests
 
-- <img src="https://cdn.simpleicons.org/windows" width="18" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/linux" width="18" style="vertical-align: middle;" /> Desktop development for Windows / Linux  
-- <img src="https://cdn.simpleicons.org/telegram" width="18" style="vertical-align: middle;" /> Building Telegram bots and automation tools  
-- <img src="https://cdn.simpleicons.org/figma" width="18" style="vertical-align: middle;" /> Designing minimalist and user‑friendly interfaces  
-- <img src="https://cdn.simpleicons.org/github" width="18" style="vertical-align: middle;" /> Open‑source utilities for everyday tasks  
-- <img src="https://cdn.simpleicons.org/experiment" width="18" style="vertical-align: middle;" /> Experimenting with new tech and architectural patterns
+-  Desktop development for Windows / Linux  
+-  Building Telegram bots and automation tools  
+-  Designing minimalist and user‑friendly interfaces  
+-  Open‑source utilities for everyday tasks  
+-  Experimenting with new tech and architectural patterns
 
 ---
 
